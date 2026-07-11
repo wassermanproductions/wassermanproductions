@@ -23,18 +23,18 @@ Previs &amp; motion references
 Motion &amp; camera from footage
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/wassermanproductions/storyboard-reference-studio">
-<img src="https://raw.githubusercontent.com/wassermanproductions/wassermans-filmmaker-suite/main/assets/storyboard-logo.svg" alt="Storyboard Reference Studio" width="180" /><br />
-<b>Storyboard Reference Studio</b>
-</a><br />
-Boards &amp; generator prompts
-</td>
-<td align="center" width="25%">
 <a href="https://github.com/wassermanproductions/stem-studio">
 <img src="https://raw.githubusercontent.com/wassermanproductions/stem-studio/main/resources/logo.png" alt="Stem Studio" width="180" /><br />
 <b>Stem Studio</b>
 </a><br />
 Dialogue / music / SFX stems
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/wassermanproductions/unofficial-davinci-mcp">
+<img src="https://raw.githubusercontent.com/wassermanproductions/unofficial-davinci-mcp/main/docs/images/logo.png" alt="Unofficial DaVinci MCP" width="180" /><br />
+<b>Unofficial DaVinci MCP</b>
+</a><br />
+Agent-driven edit &amp; finish in Resolve
 </td>
 </tr>
 </table>
@@ -43,7 +43,7 @@ Dialogue / music / SFX stems
 
 👉 **[Wasserman's Filmmaker Suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite)** — one page on all four apps and how they fit together.
 
-All apps are open source (Apache-2.0), run on macOS, and are agent-drivable via bundled MCP servers. Blockout also ships a native Windows 11 installer.
+All apps are open source (Apache-2.0) and agent-drivable via bundled MCP servers. The desktop apps run on macOS; Blockout also ships a native Windows 11 installer. Also on the shelf: [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio).
 
 [wassermanproductions.com](https://wassermanproductions.com) · [wasserman.ai](https://wasserman.ai)
 
