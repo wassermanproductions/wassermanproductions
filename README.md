@@ -41,9 +41,9 @@ Agent-driven edit &amp; finish in Resolve
 
 <br />
 
-👉 **[Wasserman's Filmmaker Suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite)** — one page on all four apps and how they fit together.
+👉 **[Wasserman's Filmmaker Suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite)** — one page on all seven apps and how they fit together.
 
-All apps are open source (Apache-2.0) and agent-drivable via bundled MCP servers. The desktop apps run on macOS; Blockout also ships a native Windows 11 installer. Also on the shelf: [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio).
+All apps are open source (Apache-2.0) and agent-drivable via bundled MCP servers. The desktop apps run on macOS; Blockout also ships a native Windows 11 installer.
 
 [wassermanproductions.com](https://wassermanproductions.com) · [wasserman.ai](https://wasserman.ai)
 
